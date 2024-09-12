@@ -15,6 +15,7 @@ O sistema conta com as seguintes tecnologias (já contando com melhorias particu
 ## Releases planejadas...
  - Integração com whatsApp;
  - Compartilhamento de produto em redes sociais;
+ - Validação de cartão de crédito;
  - Envio de e-mail;
  - Infraestrutura com docker-compose;
  - TDD XUnit;

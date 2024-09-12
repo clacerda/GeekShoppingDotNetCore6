@@ -726,3 +726,4 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\geekshopping.Web\obj\Debu
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\geekshopping.Web\obj\Debug\net6.0\geekshopping.Web.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\geekshopping.Web\obj\Debug\net6.0\geekshopping.Web.genruntimeconfig.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\geekshopping.Web\obj\Debug\net6.0\ref\geekshopping.Web.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\geekshopping.Web\obj\Debug\net6.0\geekshopping.Web.sourcelink.json
