@@ -1,0 +1,335 @@
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.Development.json
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.json
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.exe
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.deps.json
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.runtimeconfig.json
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.pdb
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Humanizer.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\MySqlConnector.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.AssemblyReference.cache
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfoInputs.cache
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfo.cs
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.CoreCompileInputs.cache
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cs
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cache
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartApi.styles.css
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\refint\GeekShopping.CartApi.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.pdb
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.genruntimeconfig.cache
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\ref\GeekShopping.CartApi.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+D:\aula07\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.CartApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.CartApi.props
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.CartApi.props
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.CartApi.props
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\aula07\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShop.E08C8E4B.Up2Date
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.Development.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.exe
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.deps.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.runtimeconfig.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.pdb
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Humanizer.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\MySqlConnector.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.AssemblyReference.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfoInputs.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfo.cs
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.CoreCompileInputs.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cs
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.CartApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.CartApi.props
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.CartApi.props
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.CartApi.props
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartApi.styles.css
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShop.E08C8E4B.Up2Date
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\refint\GeekShopping.CartApi.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.pdb
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.genruntimeconfig.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\ref\GeekShopping.CartApi.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.exe
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.deps.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.runtimeconfig.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.pdb
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.AssemblyReference.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfoInputs.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfo.cs
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.CoreCompileInputs.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.CartApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.CartApi.props
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.CartApi.props
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.CartApi.props
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartApi.styles.css
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShop.E08C8E4B.Up2Date
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\refint\GeekShopping.CartApi.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.pdb
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.genruntimeconfig.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\ref\GeekShopping.CartApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.exe
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.CartApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.CartApi.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.CartApi.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.CartApi.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartApi.styles.css
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShop.E08C8E4B.Up2Date
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\refint\GeekShopping.CartApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.CartApi\obj\Debug\net6.0\ref\GeekShopping.CartApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\appsettings.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.exe
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.CartApi.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.CartApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.CartApi.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.CartApi.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.CartApi.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.CartApi.styles.css
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShop.E08C8E4B.Up2Date
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\refint\GeekShopping.CartApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\GeekShopping.CartApi.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CartApi\obj\Debug\net6.0\ref\GeekShopping.CartApi.dll

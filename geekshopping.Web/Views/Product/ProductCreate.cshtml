@@ -1,0 +1,153 @@
+﻿@model GeekShopping.web.Models.ProductViewModel
+
+<form asp-action="ProductCreate" enctype="multipart/form-data">
+    <br/>
+    <div class="container border p-3">
+        <h1 class="text-primary">Create Product</h1>
+        <hr/>
+        <div class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="col-2">
+                <label asp-for="Name" class="control-label pt-2" style="font-size=20px;"></label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="col-2">
+                <label asp-for="CategoryName" class="control-label pt-2" style="font-size:20px;"></label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="CategoryName" class="form-control" />
+                <span asp-validation-for="CategoryName" class="text-danger"></span>
+            </div>
+            <br />
+            
+            <div class="col-2">
+                <label asp-for="Description" class="control-label pt-2" style="font-size:20px;"></label>
+            </div>
+            <div class="col-10 pb-3">
+                <textarea asp-for="Description" class="form-control" rows="5"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="col-2">
+                <label asp-for="Price" class="control-label pt-2" style="font-size:20px;"></label>
+            </div>
+            <div class="col-10 pb-3">
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <!-- Drag and Drop Area -->
+            <div class="col-12 pb-3">
+                <label class="control-label" style="font-size:20px;">Upload Images</label>
+                <div id="drop-area" class="border border-primary p-4 text-center">
+                    <p>Drag & Drop images here or click to select files</p>
+                    <input type="file" id="fileElem" multiple accept="image/*" class="form-control-file" style="display:none;" />
+                    <button type="button" class="btn btn-primary" onclick="document.getElementById('fileElem').click()">Select Files</button>
+                </div>
+            </div>
+
+            <!-- Table to Display Thumbnails -->
+            <div class="col-12 pb-3">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="gallery"></tbody>
+                </table>
+            </div>
+
+            <!-- Hidden inputs to store images in base64 -->
+            <div id="imagesBase64Container"></div>
+
+            <div class="col-5 offset-2">
+                <a asp-action="ProductIndex" class="btn-primary btn form-control">Back to List</a>
+            </div>
+
+            <div class="col-5">
+                <input type="submit" value="Create" class="btn btn-success form-control" />
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        let files = [];
+
+        const dropArea = document.getElementById('drop-area');
+        const gallery = document.getElementById('gallery');
+        const fileElem = document.getElementById('fileElem');
+        const imagesBase64Container = document.getElementById('imagesBase64Container');
+
+        dropArea.addEventListener('dragover', (event) => {
+            event.preventDefault();
+            event.stopPropagation();
+            dropArea.classList.add('bg-light');
+        });
+
+        dropArea.addEventListener('dragleave', () => {
+            dropArea.classList.remove('bg-light');
+        });
+
+        dropArea.addEventListener('drop', (event) => {
+            event.preventDefault();
+            event.stopPropagation();
+            dropArea.classList.remove('bg-light');
+            files = [...files, ...event.dataTransfer.files];
+            previewFiles(files);
+        });
+
+        fileElem.addEventListener('change', () => {
+            files = [...files, ...fileElem.files];
+            previewFiles(files);
+        });
+
+        function previewFiles(files) {
+            gallery.innerHTML = '';
+            imagesBase64Container.innerHTML = '';
+            files.forEach((file, index) => {
+                const reader = new FileReader();
+                reader.readAsDataURL(file);
+                reader.onload = (event) => {
+                    const imgElement = document.createElement('img');
+                    imgElement.src = event.target.result;
+                    imgElement.classList.add('img-thumbnail');
+                    imgElement.style.width = '100px';
+                    imgElement.style.height = '100px';
+
+                    const row = document.createElement('tr');
+                    const cellImage = document.createElement('td');
+                    cellImage.appendChild(imgElement);
+                    const cellAction = document.createElement('td');
+                    const removeBtn = document.createElement('button');
+                    removeBtn.classList.add('btn', 'btn-danger');
+                    removeBtn.textContent = 'Remove';
+                    removeBtn.onclick = () => {
+                        files.splice(index, 1);
+                        previewFiles(files);
+                    };
+                    cellAction.appendChild(removeBtn);
+                    row.appendChild(cellImage);
+                    row.appendChild(cellAction);
+                    gallery.appendChild(row);
+
+                    const inputBase64 = document.createElement('input');
+                    inputBase64.type = 'hidden';
+                    inputBase64.name = 'ImagesBase64';
+                    inputBase64.value = event.target.result;
+                    imagesBase64Container.appendChild(inputBase64);
+                };
+            });
+        }
+    </script>
+}

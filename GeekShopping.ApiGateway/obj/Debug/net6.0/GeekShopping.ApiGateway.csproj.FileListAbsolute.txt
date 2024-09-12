@@ -1,0 +1,225 @@
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.json
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.exe
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.deps.json
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.runtimeconfig.json
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.pdb
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\IdentityModel.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Ocelot.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.AssemblyReference.cache
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfoInputs.cache
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfo.cs
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.CoreCompileInputs.cache
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ApiGateway.styles.css
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\refint\GeekShopping.ApiGateway.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.pdb
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.genruntimeconfig.cache
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\ref\GeekShopping.ApiGateway.dll
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.ApiGateway.props
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.ApiGateway.props
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.ApiGateway.props
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+D:\aula07\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShop.BC0B6113.Up2Date
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.exe
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.deps.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.runtimeconfig.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.pdb
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\IdentityModel.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Ocelot.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.AssemblyReference.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfoInputs.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfo.cs
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.CoreCompileInputs.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.ApiGateway.props
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.ApiGateway.props
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.ApiGateway.props
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ApiGateway.styles.css
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShop.BC0B6113.Up2Date
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\refint\GeekShopping.ApiGateway.dll
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.pdb
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.genruntimeconfig.cache
+D:\geekshop\GeekShopping\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\ref\GeekShopping.ApiGateway.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.exe
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.deps.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.runtimeconfig.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.pdb
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfo.cs
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.ApiGateway.props
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.ApiGateway.props
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.ApiGateway.props
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ApiGateway.styles.css
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShop.BC0B6113.Up2Date
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\refint\GeekShopping.ApiGateway.dll
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.pdb
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.genruntimeconfig.cache
+C:\Users\claud\Downloads\GeekShoppingDotNetCore6-master\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\ref\GeekShopping.ApiGateway.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.exe
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.ApiGateway.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.ApiGateway.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.ApiGateway.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ApiGateway.styles.css
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShop.BC0B6113.Up2Date
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\refint\GeekShopping.ApiGateway.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShoppingDotNetCore6-master\GeekShopping.ApiGateway\obj\Debug\net6.0\ref\GeekShopping.ApiGateway.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.exe
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.runtimeconfig.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\GeekShopping.ApiGateway.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.ApiGateway.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.ApiGateway.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.ApiGateway.props
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ApiGateway.styles.css
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShop.BC0B6113.Up2Date
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\refint\GeekShopping.ApiGateway.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\ref\GeekShopping.ApiGateway.dll
