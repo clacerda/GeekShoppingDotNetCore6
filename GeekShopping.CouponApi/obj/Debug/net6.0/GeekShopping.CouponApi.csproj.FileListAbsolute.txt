@@ -318,3 +318,4 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CouponApi\ob
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CouponApi\obj\Debug\net6.0\GeekShopping.CouponApi.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CouponApi\obj\Debug\net6.0\GeekShopping.CouponApi.genruntimeconfig.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CouponApi\obj\Debug\net6.0\ref\GeekShopping.CouponApi.dll
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.CouponApi\obj\Debug\net6.0\GeekShopping.CouponApi.sourcelink.json

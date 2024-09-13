@@ -37,8 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "geekshopping.Web", "geeksho
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{0BB470BA-D199-4634-BCE5-7E5776A6B80D}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{7650433F-5774-44AC-92DB-8DA96AF28BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.Infrastructure", "GeekShopping.Infrastructure\GeekShopping.Infrastructure.csproj", "{0C981CB7-6A11-4D77-9A13-A04A46F60D6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -90,6 +95,10 @@ Global
 		{60AFF76D-6871-4742-BDDE-21E65DF21E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60AFF76D-6871-4742-BDDE-21E65DF21E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60AFF76D-6871-4742-BDDE-21E65DF21E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C981CB7-6A11-4D77-9A13-A04A46F60D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C981CB7-6A11-4D77-9A13-A04A46F60D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C981CB7-6A11-4D77-9A13-A04A46F60D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C981CB7-6A11-4D77-9A13-A04A46F60D6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -106,6 +115,7 @@ Global
 		{AEF7F9C2-F9EB-4A82-8972-19FAE5437F3F} = {D5F9E2D2-3A0F-41A8-A35C-42AC78A2EE3E}
 		{BEE645C7-9FA1-48B2-AAA0-000874EF8BE6} = {577886DF-4A60-4DBC-9472-7F2C662EFE2F}
 		{60AFF76D-6871-4742-BDDE-21E65DF21E2A} = {2B3A3286-FF3E-4373-9DB7-BBC53C049846}
+		{0C981CB7-6A11-4D77-9A13-A04A46F60D6A} = {7650433F-5774-44AC-92DB-8DA96AF28BAC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {575F487D-1FE1-4A17-A2C7-A49CB07C57AE}

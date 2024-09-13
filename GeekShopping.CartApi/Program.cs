@@ -80,6 +80,13 @@ builder.Services.AddSingleton<IRabbitMqSender, RabbitMqSender>();
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<MySqlContext>();
+    dbContext.Database.Migrate();
+}
+
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
