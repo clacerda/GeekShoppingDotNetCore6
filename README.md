@@ -82,12 +82,14 @@ Para executar o projeto é muito simples, basta executar a seguinte sequência:
 	- GeekShopping.Product
 	- geekshopping.Web
 - Nota: Os projetos GeekShopping.MessageBus e GeekShopping.PaymentProcessor não devem ser iniciados automaticamente.
+- Após isto, o projeto deve carregar todas as API's através do swagger e o frontend no endereço: https://localhost:4430
+![Home Page](https://github.com/clacerda/GeekShoppingDotNetCore6/blob/main/geekshopping.Web/wwwroot/images/home.PNG?raw=true)
 
 ## Suporte
 Para suporte, mande um email para claudiovieira_jr@hotmail.com ou entre em nosso canal do Slack.
 
 
-## Fonte original
+## Local de partida
 Como informado, este projeto iniciou-se com o curso da Erudio, o cara realmente é fera e vale muito participar do treinamento. Caso queira comparar o projeto inicial e o meu projeto atual, segue o link:
 
 - Git do projeto original: https://github.com/leandrocgsi/erudio-microservices-dotnet6
