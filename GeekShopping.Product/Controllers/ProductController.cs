@@ -72,46 +72,6 @@ namespace GeekShopping.ProductAPI.Controllers
             return Ok(status);
         }
 
-
-
-        //[HttpGet("GetImageBase/{id}")]
-        //public async Task<ActionResult<ImageVO>> GetImageBase(string id)
-        //{
-        //    var images = await _imageRepository.GetByIdAsync(id);
-        //    if (images == null) return NotFound();
-
-        //    return Ok(images);
-        //}
-
-        //[HttpGet("GetImageBase")]
-        //public async Task<ActionResult<ImageVO>> GetImageBaseAll()
-        //{
-        //    var images = await _imageRepository.GetAllAsync();
-        //    if (images == null) return NotFound();
-
-        //    return Ok(images);
-        //}
-
-
-        //[HttpPost("PostImageBase")]
-        //public async Task<ActionResult<ProductVO>> CreateImage([FromBody] IEnumerable<ImageVO> imageVO)
-        //{
-        //    if (imageVO == null) return BadRequest();
-        //    var product = await _imageRepository.CreateImages(imageVO);
-
-        //    return Ok(product);
-        //}
-
-        //[HttpDelete("DeleteImageBase/{id}")] 
-        //public async Task<ActionResult> DeleteImage(string id)
-        //{
-        //    var status = await _imageRepository.DeleteImage(id);
-
-        //    if (!status) return BadRequest();
-
-        //    return Ok(status);
-        //}
-
-
+         
     }
 }

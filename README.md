@@ -13,11 +13,21 @@ O sistema conta com as seguintes tecnologias (já contando com melhorias particu
  - MongoDB -> Armazenamento de imagens;
 
 ## Releases planejadas...
+ - ~~Alterar cadastro de produtos: Ao invés de cadastrar url de imagens, armazená-las no mongoDb;~~ Completo
+ - ~~Alterar cadastro de produtos: Cadastrar mais de uma imagem para o mesmo produto;~~ Completo
+ - ~~Alterar cadastro de produtos: Carregar imagens como ícones no momento do cadastro;~~ Completo
+ - ~~HomePage: Incluir 'Carousel' para que as imagens possam ser paginadas na home;~~ Completo
  - Integração com whatsApp;
  - Compartilhamento de produto em redes sociais;
  - Validação de cartão de crédito;
  - Envio de e-mail;
  - Infraestrutura com docker-compose;
+    -  Criação de Projeto específico para manter a infraestrutura: GeekShopping.Infraestructure
+        1. ~~MongoDB;~~ Completo
+        2. ~~mysql:8.0;~~ Completo
+        3. ~~rabbitmq:3;~~ Completo
+        4. API's;
+        5. FrontEnd (AspNet);
  - TDD XUnit;
  - Etc..
 
@@ -55,5 +65,30 @@ graph TD;
     APIS<-->MS
 ```
 
+## Tutorial
+Para executar o projeto é muito simples, basta executar a seguinte sequência:
+- GeekShopping.Infrastructure
+    - O projeto Infrastructure vai cediar tudo que se relaciona a sustenção de ambientes.
+    - Ao executá-lo, deve ser criado os bancos de dados e o serviço de RabbitMQ.
+- Após isto, pode verificar se na solution, na opção "Configurar projetos de inicialização", estão sinalizados para iniciar os seguintes projetos:
+    - GeekShopping.ApiGateway 
+	- GeekShopping.CartApi
+	- GeekShopping.CouponApi
+	- GeekShopping.Email
+	- GeekShopping.IdentityServer
+	- GeekShopping.Infrastructure
+	- GeekShopping.OrderAPI
+	- GeekShopping.PaymentAPI
+	- GeekShopping.Product
+	- geekshopping.Web
+- Nota: Os projetos GeekShopping.MessageBus e GeekShopping.PaymentProcessor não devem ser iniciados automaticamente.
+
 ## Suporte
 Para suporte, mande um email para claudiovieira_jr@hotmail.com ou entre em nosso canal do Slack.
+
+
+## Fonte original
+Como informado, este projeto iniciou-se com o curso da Erudio, o cara realmente é fera e vale muito participar do treinamento. Caso queira comparar o projeto inicial e o meu projeto atual, segue o link:
+
+- Git do projeto original: https://github.com/leandrocgsi/erudio-microservices-dotnet6
+- Cursos da  empresa: https://pub.erudio.com.br/meus-cursos

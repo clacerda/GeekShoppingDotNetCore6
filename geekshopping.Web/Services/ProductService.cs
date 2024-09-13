@@ -13,8 +13,7 @@ namespace GeekShopping.web.Services
     {
 
         private readonly HttpClient _client;
-        public const string BasePath = "api/v1/product";
-        public const string AccessApiProduct = "https://localhost:4440/api/v1/product/GetImageBase/";
+        public const string BasePath = "api/v1/product"; 
 
         public ProductService(HttpClient client)
         {

@@ -49,6 +49,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.MessageBus\o
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfoInputs.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfo.cs
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.sourcelink.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.dll
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\refint\GeekShopping.MessageBus.dll
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.pdb

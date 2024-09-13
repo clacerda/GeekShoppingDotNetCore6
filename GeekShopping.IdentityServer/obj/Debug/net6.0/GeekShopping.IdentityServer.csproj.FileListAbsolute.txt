@@ -277,6 +277,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServ
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-08EC1C2AD77E2C648313510E5E9FAB7D.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-17BE56238B8D65632E0C4BD049567180.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-48935A34250BF61510DC262C22B5151D.json
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-80D275FB4F7A2AAF8ED36A4D04D414D4.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.staticwebassets.runtime.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.exe
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.deps.json
@@ -325,6 +326,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServ
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.sourcelink.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props

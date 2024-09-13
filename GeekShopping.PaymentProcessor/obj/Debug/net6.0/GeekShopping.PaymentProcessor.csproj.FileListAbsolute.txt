@@ -49,6 +49,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentProce
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.AssemblyInfoInputs.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.AssemblyInfo.cs
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.sourcelink.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.dll
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\refint\GeekShopping.PaymentProcessor.dll
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.pdb

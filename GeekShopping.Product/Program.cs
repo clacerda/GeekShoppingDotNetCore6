@@ -10,6 +10,7 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 var connection = builder.Configuration["MySqlConnection:MysqlConnectionString"];
+var connectionMongoDb = builder.Configuration["MongoDbConnection:MongoDbConnectionString"];
 
 // Add services to the container.
 
@@ -73,7 +74,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddSingleton<MongoDbContext>(sp =>
 {
-    var connectionString = "mongodb://localhost:27017";
+    var connectionString = connectionMongoDb;
     var databaseName = "images";
     return new MongoDbContext(connectionString, databaseName);
 });

@@ -299,6 +299,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\De
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\GeekShopping.Email.csproj.CoreCompileInputs.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\GeekShopping.Email.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\GeekShopping.Email.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\GeekShopping.Email.sourcelink.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.Email.Microsoft.AspNetCore.StaticWebAssets.props
@@ -313,4 +314,3 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\De
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\GeekShopping.Email.pdb
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\GeekShopping.Email.genruntimeconfig.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\ref\GeekShopping.Email.dll
-C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.Email\obj\Debug\net6.0\GeekShopping.Email.sourcelink.json

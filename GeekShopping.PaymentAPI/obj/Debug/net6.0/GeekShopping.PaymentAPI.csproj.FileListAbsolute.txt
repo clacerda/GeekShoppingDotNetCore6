@@ -319,6 +319,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentAPI\o
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentAPI\obj\Debug\net6.0\GeekShopping.PaymentAPI.csproj.CoreCompileInputs.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentAPI\obj\Debug\net6.0\GeekShopping.PaymentAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentAPI\obj\Debug\net6.0\GeekShopping.PaymentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentAPI\obj\Debug\net6.0\GeekShopping.PaymentAPI.sourcelink.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentAPI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentAPI\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.PaymentAPI\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.PaymentAPI.Microsoft.AspNetCore.StaticWebAssets.props

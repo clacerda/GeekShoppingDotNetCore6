@@ -209,6 +209,7 @@ C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\o
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.csproj.CoreCompileInputs.cache
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\GeekShopping.ApiGateway.sourcelink.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\claud\OneDrive\Área de Trabalho\GeekShopping\GeekShopping.ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
