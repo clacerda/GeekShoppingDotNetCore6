@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\GeekShopping.web2.props" />
-</Project>
