@@ -85,6 +85,11 @@ namespace GeekShopping.web.Controllers
         [HttpPost]
         public async Task<IActionResult> Checkout(CartViewModel model)
         {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
             var token = await HttpContext.GetTokenAsync("access_token");
 
             var response = await _cartService.Checkout(model.CartHeader, token);
@@ -101,6 +106,7 @@ namespace GeekShopping.web.Controllers
 
             return View(model);
         }
+
 
         [HttpGet]
         public async Task<IActionResult> Confirmation()
