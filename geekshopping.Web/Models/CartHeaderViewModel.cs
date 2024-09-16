@@ -1,6 +1,5 @@
-﻿using geekshopping.Web.Models;
-using System;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
+using geekshopping.Web.Utils;
 
 namespace GeekShopping.web.Models
 {
@@ -27,6 +26,7 @@ namespace GeekShopping.web.Models
         [Required(ErrorMessage = "E-mail is required.")]
         public string Email { get; set; }
 
+        [StringLength(19, MinimumLength = 13, ErrorMessage = "Card Number feel wrong. Verify your number card and try now.")]
         [RegularExpression(@"^\d{13,19}$", ErrorMessage = "Card number must contain between 13 and 19 digits and consist only of numbers.")]
         public string CardNumber { get; set; }
 

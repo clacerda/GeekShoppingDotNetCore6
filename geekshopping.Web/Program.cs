@@ -15,7 +15,9 @@ if (environment)
     serviceUrl = "ServiceUrls";
 }
 
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation().AddViewOptions(opt => {
+    opt.HtmlHelperOptions.ClientValidationEnabled = true;
+});
 
 
 builder.Services.AddHttpClient<IProductService, ProductService>(c =>

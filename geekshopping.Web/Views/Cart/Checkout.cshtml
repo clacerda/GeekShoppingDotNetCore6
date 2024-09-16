@@ -27,30 +27,38 @@
                         <div class="col-12">
                             <label class="col-form-label">First Name: </label>
                             <input asp-for="CartHeader.FirstName" class="form-control" />
+                            <span asp-validation-for="CartHeader.FirstName" class="text-danger"></span>
                         </div>
                         <div class="col-12">
                             <label class="col-form-label">Last Name: </label>
-                            <input asp-for="CartHeader.LastName" class="form-control" />
+                            <input asp-for="CartHeader.LastName" class="form-control"/>
+                            <span asp-validation-for="CartHeader.LastName" class="text-danger"></span>
                         </div>
                         <div class="col-12">
                             <label class="col-form-label">E-mail: </label>
-                            <input asp-for="CartHeader.Email" class="form-control" />
+                            <input asp-for="CartHeader.Email" class="form-control" type="email" />
+                            <span asp-validation-for="CartHeader.Email" class="text-danger"></span>
                         </div>
                         <div class="col-12">
                             <label class="col-form-label">Phone Number: </label>
-                            <input asp-for="CartHeader.Phone" class="form-control" />
+                            <input asp-for="CartHeader.Phone" class="form-control" maxlength="11" type="number"/>
+                            <span asp-validation-for="CartHeader.Phone" class="text-danger"></span>
                         </div>
                         <div class="col-12">
                             <label class="col-form-label">Card Number: </label>
                             <input asp-for="CartHeader.CardNumber" class="form-control" />
+                            <span asp-validation-for="CartHeader.CardNumber" class="text-danger"></span>
                         </div>
                         <div class="col-12">
                             <label class="col-form-label">CVV: </label>
-                            <input asp-for="CartHeader.CVV" class="form-control" />
+                            <input asp-for="CartHeader.CVV" class="form-control" maxlength="4" pattern="\d{3,4}" />
+                            <span asp-validation-for="CartHeader.CVV" class="text-danger"></span>
                         </div>
                         <div class="col-12 pb-4">
                             <label class="col-form-label">Expire Date: </label>
-                            <input asp-for="CartHeader.ExpireMothYear" placeholder="MMYY" class="form-control" />
+                           @*  <input asp-for="CartHeader.ExpireMothYear" placeholder="MM/YY"oninput="applyMask(this)"  class="form-control" pattern="\d{2}/\d{2}" title="Please enter in the format MM/YY" /> *@
+                            <input asp-for="CartHeader.ExpireMothYear" placeholder="MM/YY" oninput="applyMask(this)" onblur="validateExpiryDate(this)" class="form-control" pattern="\d{2}/\d{2}" title="Please enter in the format MM/YY" />
+                            <span asp-validation-for="CartHeader.ExpireMothYear" class="text-danger" id="expiryError"></span>
                         </div>
                     </div>
 
@@ -121,3 +129,47 @@
         </div>
     </form>
 }
+
+<script>
+    function applyMask(input) {
+        let value = input.value.replace(/\D/g, '');
+        if (value.length >= 2) {
+            input.value = value.slice(0, 2) + '/' + value.slice(2, 4);
+        } else {
+            input.value = value;
+        }
+    }
+
+    function validateExpiryDate(input) {
+        const errorSpan = document.getElementById('expiryError');
+        const regex = /^(0[1-9]|1[0-2])\/?([0-9]{2})$/;
+
+        if (!regex.test(input.value)) {
+            errorSpan.innerText = "Invalid format. Use MM/YY.";
+            return;
+        }
+
+        const today = new Date();
+        const month = parseInt(input.value.substring(0, 2), 10);
+        const year = parseInt("20" + input.value.substring(3, 5), 10);
+
+        const currentYear = today.getFullYear();
+        const currentMonth = today.getMonth() + 1;  
+
+        if (year > currentYear + 5) {
+            errorSpan.innerText = "The expiration date it's wrong.";
+            return;
+        }
+
+        if (year < currentYear || (year === currentYear && month < currentMonth)) {
+            errorSpan.innerText = "The expiration date is in the past.";
+            return;
+        }
+
+        errorSpan.innerText = "";
+    }
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>

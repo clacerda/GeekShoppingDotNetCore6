@@ -69,20 +69,38 @@ namespace GeekShopping.ProductAPI.Repository
         public async Task<ProductVO> Create(ProductVO productVO)
         {
             Product product = _mapper.Map<Product>(productVO);
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
-            //Create a LIST IMAGES
-            productVO.Images.ToList().ForEach(img => img.IdProduct = product.Id.ToString());
-            await _imageRepository.CreateImages(productVO.Images);
-            return _mapper.Map<ProductVO>(product);
+            try
+            {
+                _context.Products.Add(product);
+                await _context.SaveChangesAsync();
+                //Create a LIST IMAGES
+
+                productVO.Images.ToList().ForEach(img => img.IdProduct = product.Id.ToString());
+                await _imageRepository.CreateImages(productVO.Images);
+                return _mapper.Map<ProductVO>(product);
+            }
+            catch (Exception ex)
+            {
+
+                throw new Exception($"An error occurred while creating the product: {ex.Message}", ex);
+            }         
+            
         }
 
         public async Task<ProductVO> Update(ProductVO productVO)
         {
-            Product product = _mapper.Map<Product>(productVO);
-            _context.Products.Update(product);
-            await _context.SaveChangesAsync();
-            return _mapper.Map<ProductVO>(product);
+             Product product = _mapper.Map<Product>(productVO);
+            try
+            {
+                _context.Products.Update(product);
+                await _context.SaveChangesAsync();
+                return _mapper.Map<ProductVO>(product);
+            }
+            catch (Exception ex)
+            {
+
+                throw new Exception($"An error occurred while creating the product: {ex.Message}", ex);
+            } 
         }
 
         public async Task<bool> Delete(long id)

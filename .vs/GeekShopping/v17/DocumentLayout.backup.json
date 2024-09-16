@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C981CB7-6A11-4D77-9A13-A04A46F60D6A}|GeekShopping.Infrastructure\\GeekShopping.Infrastructure.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.infrastructure\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0C981CB7-6A11-4D77-9A13-A04A46F60D6A}|GeekShopping.Infrastructure\\GeekShopping.Infrastructure.csproj|solutionrelative:geekshopping.infrastructure\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\models\\cartheaderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\models\\cartheaderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE645C7-9FA1-48B2-AAA0-000874EF8BE6}|GeekShopping.Product\\GeekShopping.Product.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE645C7-9FA1-48B2-AAA0-000874EF8BE6}|GeekShopping.Product\\GeekShopping.Product.csproj|solutionrelative:geekshopping.product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\utils\\creditcardvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\utils\\creditcardvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE645C7-9FA1-48B2-AAA0-000874EF8BE6}|GeekShopping.Product\\GeekShopping.Product.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BEE645C7-9FA1-48B2-AAA0-000874EF8BE6}|GeekShopping.Product\\GeekShopping.Product.csproj|solutionrelative:geekshopping.product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE645C7-9FA1-48B2-AAA0-000874EF8BE6}|GeekShopping.Product\\GeekShopping.Product.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE645C7-9FA1-48B2-AAA0-000874EF8BE6}|GeekShopping.Product\\GeekShopping.Product.csproj|solutionrelative:geekshopping.product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E30D7A0C-49E5-43EB-B6EF-A5C505BDEBCC}|GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E30D7A0C-49E5-43EB-B6EF-A5C505BDEBCC}|GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj|solutionrelative:geekshopping.paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "geekshopping.Web\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "geekshopping.Web\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:48:28.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Product\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Product\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Product\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "GeekShopping.Product\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAUwEoAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Program.cs",
+              "RelativeDocumentMoniker": "geekshopping.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Program.cs",
+              "RelativeToolTip": "geekshopping.Web\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:45:08.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "geekshopping.Web\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Services\\ProductService.cs",
-              "RelativeToolTip": "geekshopping.Web\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:27:00.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Product\\appsettings.json",
-              "RelativeDocumentMoniker": "GeekShopping.Product\\appsettings.json",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Product\\appsettings.json",
-              "RelativeToolTip": "GeekShopping.Product\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-13T11:59:09.563Z",
+              "WhenOpened": "2024-09-16T19:45:45.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Product\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Product\\Program.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Product\\Program.cs",
-              "RelativeToolTip": "GeekShopping.Product\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAEoAAAAzAAAAAAAAAA==",
+              "Title": "CreditCardValidate.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Utils\\CreditCardValidate.cs",
+              "RelativeDocumentMoniker": "geekshopping.Web\\Utils\\CreditCardValidate.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Utils\\CreditCardValidate.cs",
+              "RelativeToolTip": "geekshopping.Web\\Utils\\CreditCardValidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:58:49.922Z",
+              "WhenOpened": "2024-09-16T18:14:27.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.PaymentAPI\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.PaymentAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.PaymentAPI\\Program.cs",
-              "RelativeToolTip": "GeekShopping.PaymentAPI\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "geekshopping.Web\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "geekshopping.Web\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:32:29.706Z",
+              "WhenOpened": "2024-09-16T12:54:21.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Infrastructure\\docker-compose.yml",
-              "RelativeDocumentMoniker": "GeekShopping.Infrastructure\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Infrastructure\\docker-compose.yml",
-              "RelativeToolTip": "GeekShopping.Infrastructure\\docker-compose.yml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-09-12T21:36:36.834Z",
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "geekshopping.Web\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Views\\Cart\\Checkout.cshtml*",
+              "RelativeToolTip": "geekshopping.Web\\Views\\Cart\\Checkout.cshtml*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAswJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T12:18:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartHeaderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Models\\CartHeaderViewModel.cs",
+              "RelativeDocumentMoniker": "geekshopping.Web\\Models\\CartHeaderViewModel.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Models\\CartHeaderViewModel.cs",
+              "RelativeToolTip": "geekshopping.Web\\Models\\CartHeaderViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:16:09.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "geekshopping.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "geekshopping.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T11:57:08.112Z",
               "EditorCaption": ""
             }
           ]

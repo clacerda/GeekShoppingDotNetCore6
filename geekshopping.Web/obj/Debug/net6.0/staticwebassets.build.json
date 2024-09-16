@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BMCyiybB6fHjjdNozPKLO9g4RUJJsdtomkjqcvjanD0=",
+  "Hash": "Itgvv9kRiy87INmjTM7LuJwpKD9siHCiCFYIuAHCY1U=",
   "Source": "geekshopping.Web",
   "BasePath": "_content/geekshopping.Web",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\geek_shopping.png"
+    },
+    {
+      "Identity": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\images\\home.PNG",
+      "SourceId": "geekshopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\",
+      "BasePath": "_content/geekshopping.Web",
+      "RelativePath": "images/home.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\home.PNG"
     },
     {
       "Identity": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\images\\order.png",

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\geek_shopping.png"
     },
     {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\images\\home.PNG",
+      "PackagePath": "staticwebassets\\images\\home.PNG"
+    },
+    {
       "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\images\\order.png",
       "PackagePath": "staticwebassets\\images\\order.png"
     },
