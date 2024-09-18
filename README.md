@@ -19,7 +19,9 @@ O sistema conta com as seguintes tecnologias (já contando com melhorias particu
  - ~~HomePage: Incluir 'Carousel' para que as imagens possam ser paginadas na home;~~ Completo
  - Integração com whatsApp;
  - Compartilhamento de produto em redes sociais;
- - Validação de cartão de crédito;
+ - ~~Validação de cartão de crédito~~;
+    - ~~Inclusão da bandeira de cartão de crédito utilizado - Awsome fonts.~~
+    - Layout adaptativo para outros métodos de pagamento.
  - Envio de e-mail;
  - Infraestrutura com docker-compose;
     -  Criação de Projeto específico para manter a infraestrutura: GeekShopping.Infraestructure
@@ -84,6 +86,14 @@ Para executar o projeto é muito simples, basta executar a seguinte sequência:
 - Nota: Os projetos GeekShopping.MessageBus e GeekShopping.PaymentProcessor não devem ser iniciados automaticamente.
 - Após isto, o projeto deve carregar todas as API's através do swagger e o frontend no endereço: https://localhost:4430
 ![Home Page](https://github.com/clacerda/GeekShoppingDotNetCore6/blob/main/geekshopping.Web/wwwroot/images/home.PNG?raw=true)
+
+## Novidades:
+- Atualização 18/09
+    - O checkout já conta com uma validação de cartão de crédito tanto no front-end como no back-end;
+    - Agora, ao digitar o número do cartão, a aplicação identifica em tempo real (javascript) a bandeira do cartão;
+    - Estamos evoluindo para um layout adaptativo dos pagamentos, então será mais simples de adicionar outras features de pagamento como boletos, pix ou... Bitcoin?!
+ ![Home Page](https://github.com/clacerda/GeekShoppingDotNetCore6/blob/main/geekshopping.Web/wwwroot/images/payment_creditCard.PNG?raw=true)
+
 
 ## Suporte
 Para suporte, mande um email para claudiovieira_jr@hotmail.com ou entre em nosso canal do Slack.

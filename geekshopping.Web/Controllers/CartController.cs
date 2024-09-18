@@ -1,4 +1,5 @@
-﻿using GeekShopping.web.Models;
+﻿using geekshopping.Web.Utils;
+using GeekShopping.web.Models;
 using GeekShopping.web.Services.IServices;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
@@ -85,11 +86,6 @@ namespace GeekShopping.web.Controllers
         [HttpPost]
         public async Task<IActionResult> Checkout(CartViewModel model)
         {
-            if (!ModelState.IsValid)
-            {
-                return View(model);
-            }
-
             var token = await HttpContext.GetTokenAsync("access_token");
 
             var response = await _cartService.Checkout(model.CartHeader, token);
@@ -103,9 +99,33 @@ namespace GeekShopping.web.Controllers
             {
                 return RedirectToAction(nameof(Confirmation));
             }
-
             return View(model);
         }
+        //public async Task<IActionResult> Checkout(CartViewModel model)
+        //{
+        //    if (!ModelState.IsValid)
+        //    {
+        //        return View(model);
+        //    }
+
+        //    var token = await HttpContext.GetTokenAsync("access_token");
+
+        //    var response = await _cartService.Checkout(model.CartHeader, token);
+
+        //    if (response != null && response.GetType() == typeof(string) || 
+        //        !CreditCardValidate.IsCreditCardValid(model.CartHeader.CardNumber) 
+        //        && !CreditCardValidate.ValidateExpiryDate(model.CartHeader.ExpireMothYear))
+        //    {
+        //        TempData["Error"] = response;
+        //        return RedirectToAction(nameof(Checkout));
+        //    }
+        //    else if (response != null)
+        //    {
+        //        return RedirectToAction(nameof(Confirmation));
+        //    }
+
+        //    return View(model);
+        //}
 
 
         [HttpGet]

@@ -60,6 +60,11 @@ namespace GeekShopping.OrderAPI.Migrations
                         .HasColumnType("bigint")
                         .HasColumnName("Id");
 
+                    b.Property<string>("Address")
+                        .IsRequired()
+                        .HasColumnType("longtext")
+                        .HasColumnName("address");
+
                     b.Property<string>("CVV")
                         .IsRequired()
                         .HasColumnType("longtext")
@@ -106,6 +111,11 @@ namespace GeekShopping.OrderAPI.Migrations
                         .HasColumnType("longtext")
                         .HasColumnName("last_name");
 
+                    b.Property<string>("NumberAddress")
+                        .IsRequired()
+                        .HasColumnType("longtext")
+                        .HasColumnName("number_address");
+
                     b.Property<DateTime>("OrderTime")
                         .HasColumnType("datetime(6)")
                         .HasColumnName("order_time");
@@ -123,10 +133,19 @@ namespace GeekShopping.OrderAPI.Migrations
                         .HasColumnType("decimal(65,30)")
                         .HasColumnName("purchase_amount");
 
+                    b.Property<decimal>("ShippingCost")
+                        .HasColumnType("decimal(65,30)")
+                        .HasColumnName("shipping_cost");
+
                     b.Property<string>("UserId")
                         .IsRequired()
                         .HasColumnType("longtext")
                         .HasColumnName("user_id");
+
+                    b.Property<string>("ZipCode")
+                        .IsRequired()
+                        .HasColumnType("longtext")
+                        .HasColumnName("zipcode");
 
                     b.HasKey("Id");
 

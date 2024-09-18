@@ -16,3 +16,38 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.navbar-nav.ml-auto {
+    margin-left: auto;
+}
+
+.login-button {
+    background-color: #d79609;
+    color: #a87608;
+    border: none;
+    border-radius: 15px;
+    padding: 8px 16px;
+    font-size: 16px;
+    height: auto;
+    cursor: pointer;
+    text-align: center;
+    line-height: 1.5;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+
+    .login-button:hover {
+        background-color: #a87608;
+    }
+
+    .login-button:active {
+        background-color: #a87608;
+        color: #d79609;
+    }
+
+    .login-button:focus {
+        outline: none;
+    }

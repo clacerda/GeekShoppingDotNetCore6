@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Itgvv9kRiy87INmjTM7LuJwpKD9siHCiCFYIuAHCY1U=",
+  "Hash": "T1454kzsd+EA4NOpVYRQ8CGw5D8ZgG4AqLsHUK3OUDg=",
   "Source": "geekshopping.Web",
   "BasePath": "_content/geekshopping.Web",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\order.png"
+    },
+    {
+      "Identity": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\images\\payment_creditCard.PNG",
+      "SourceId": "geekshopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\",
+      "BasePath": "_content/geekshopping.Web",
+      "RelativePath": "images/payment_creditCard.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\payment_creditCard.PNG"
     },
     {
       "Identity": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\js\\site.js",

@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\images\\order.png"
     },
     {
+      "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\images\\payment_creditCard.PNG",
+      "PackagePath": "staticwebassets\\images\\payment_creditCard.PNG"
+    },
+    {
       "Id": "C:\\Users\\claud\\OneDrive\\Área de Trabalho\\GeekShopping\\geekshopping.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace GeekShopping.OrderAPI.Migrations
 {
     /// <inheritdoc />
-    public partial class AddOrderDataTablesOnDb : Migration
+    public partial class Inicial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -23,7 +23,7 @@ namespace GeekShopping.OrderAPI.Migrations
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
                     user_id = table.Column<string>(type: "longtext", nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    coupon_code = table.Column<string>(type: "longtext", nullable: false)
+                    coupon_code = table.Column<string>(type: "longtext", nullable: true)
                         .Annotation("MySql:CharSet", "utf8mb4"),
                     purchase_amount = table.Column<decimal>(type: "decimal(65,30)", nullable: false),
                     discount_amount = table.Column<decimal>(type: "decimal(65,30)", nullable: false),
@@ -44,6 +44,13 @@ namespace GeekShopping.OrderAPI.Migrations
                     expiry_month_year = table.Column<string>(type: "longtext", nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4"),
                     total_itens = table.Column<int>(type: "int", nullable: false),
+                    address = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    number_address = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    zipcode = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    shipping_cost = table.Column<decimal>(type: "decimal(65,30)", nullable: false),
                     payment_status = table.Column<bool>(type: "tinyint(1)", nullable: false)
                 },
                 constraints: table =>

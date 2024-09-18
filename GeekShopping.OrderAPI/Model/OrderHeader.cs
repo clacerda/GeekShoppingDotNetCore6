@@ -47,10 +47,23 @@ namespace GeekShopping.OrderAPI.Model
 
         [Column("total_itens")]
         public int CartTotalItens { get; set; }
+         
+        [Column("address")]
+        public string Address { get; set; }
 
-        public List<OrderDetail> OrderDetails { get; set; }
+        [Column("number_address")]
+        public string NumberAddress { get; set; }
+
+        [Column("zipcode")]
+        public string ZipCode { get; set; }
+
+        //Frete
+        [Column("shipping_cost")]
+        public decimal ShippingCost { get; set; }
 
         [Column("payment_status")]
         public bool PaymentStatus { get; set; }
+
+        public List<OrderDetail> OrderDetails { get; set; }
     }
 }

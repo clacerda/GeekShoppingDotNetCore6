@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using geekshopping.Web.Utils;
 
 namespace GeekShopping.web.Models
@@ -26,6 +27,7 @@ namespace GeekShopping.web.Models
         [Required(ErrorMessage = "E-mail is required.")]
         public string Email { get; set; }
 
+        [Required(ErrorMessage = "Number card is required.")]
         [StringLength(19, MinimumLength = 13, ErrorMessage = "Card Number feel wrong. Verify your number card and try now.")]
         [RegularExpression(@"^\d{13,19}$", ErrorMessage = "Card number must contain between 13 and 19 digits and consist only of numbers.")]
         public string CardNumber { get; set; }
@@ -39,5 +41,9 @@ namespace GeekShopping.web.Models
         [RegularExpression(@"\d{2}/\d{2}", ErrorMessage = "Invalid format. Use MM/YY.")]
         [StringLength(5, MinimumLength = 5, ErrorMessage = "Invalid expiration date format. Use MM/YY.")]
         public string ExpireMothYear { get; set; }
+        public string Address { get; set; }
+        public string NumberAddress { get; set; }
+        public string ZipCode { get; set; }
+        public decimal ShippingCost { get; set; }
     }
 }
