@@ -66,7 +66,13 @@ namespace GeekShopping.OrderAPI.MessageConsumer
                 PurchaseAmount = vo.PurchaseAmount,
                 PaymentStatus = false,
                 Phone = vo.Phone,
-                DateTime = vo.Time
+                DateTime = vo.Time,
+                //18/09 -> Teste de inclusão de endereço.
+                Address = vo.Address,
+                NumberAddress = vo.NumberAddress,
+                ZipCode = vo.ZipCode,
+                ShippingCost = vo.ShippingCost
+
             };
 
             foreach (var details in vo.CartDetails)

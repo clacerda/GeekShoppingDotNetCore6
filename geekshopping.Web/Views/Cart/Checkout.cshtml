@@ -14,7 +14,7 @@
         <input asp-for="CartHeader.CouponCode" hidden />
         <input asp-for="CartHeader.DiscountTotal" hidden />
         <input asp-for="CartHeader.PurchaseAmount" hidden />
-        <input asp-for="CartHeader.ShippingCost" hidden />
+        <input asp-for="CartHeader.ShippingCost"  value="0" hidden />
 
         <div>
             <span style="font-size:25px;" class="text-warning"> Enter details and place order:</span>
@@ -46,25 +46,27 @@
                             <input asp-for="CartHeader.Phone" class="form-control" maxlength="11"  />
                             <span asp-validation-for="CartHeader.Phone" class="text-danger"></span>
                         </div>
+
                         @* Endereço *@
 
                         <div class="col-12">
                             <label class="col-form-label">Address: </label>
-                            <input class="form-control" maxlength="100" />
+                            <input asp-for="CartHeader.Address" class="form-control" maxlength="100" />
                             <span asp-validation-for="CartHeader.Address" class="text-danger"></span>
                         </div>
 
                         <div class="col-12">
                             <label class="col-form-label">Number: </label>
-                            <input class="form-control" maxlength="5" />
+                            <input asp-for="CartHeader.NumberAddress" class="form-control" maxlength="5" />
                             <span asp-validation-for="CartHeader.NumberAddress" class="text-danger"></span>
                         </div>
 
                         <div class="col-12">
                             <label class="col-form-label">ZipCode: </label>
-                            <input class="form-control" maxlength="8"  placeholder="Use only numbers." />
+                            <input asp-for="CartHeader.ZipCode" class="form-control" maxlength="8" placeholder="Use only numbers." />
                             <span asp-validation-for="CartHeader.ZipCode" class="text-danger"></span>
                         </div>
+                        @* Endereço *@
  
                         <div class="col-14">
                             <div class="card mt-4">
