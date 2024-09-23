@@ -16,7 +16,7 @@ namespace GeekShopping.web.Controllers
         private readonly ICartService _cartService;
         private readonly ICouponService _couponService;
 
-        public CartController( IProductService productService, ICartService cartService, ICouponService couponService)
+        private CartController( IProductService productService, ICartService cartService, ICouponService couponService)
         {
             _productService = productService;
             _cartService = cartService;
@@ -24,14 +24,14 @@ namespace GeekShopping.web.Controllers
         }
 
         [Authorize]
-        public async Task<IActionResult> CartIndex()
+        private async Task<IActionResult> CartIndex()
         {            
             return View(await findUserCart());
         }
 
         [HttpPost]
         [ActionName("ApplyCoupon")]
-        public async Task<IActionResult> ApplyCoupon(CartViewModel model)
+        private async Task<IActionResult> ApplyCoupon(CartViewModel model)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
             var UserId = User.Claims.Where(user => user.Type == "sub")?.FirstOrDefault()?.Value;
@@ -47,7 +47,7 @@ namespace GeekShopping.web.Controllers
 
         [HttpPost]
         [ActionName("RemoveCoupon")]
-        public async Task<IActionResult> RemoveCoupon()
+        private async Task<IActionResult> RemoveCoupon()
         {
             var token = await HttpContext.GetTokenAsync("access_token");
             var UserId = User.Claims.Where(user => user.Type == "sub")?.FirstOrDefault()?.Value;
@@ -63,7 +63,7 @@ namespace GeekShopping.web.Controllers
 
 
 
-        public async Task<IActionResult> Remove(int Id)
+        private async Task<IActionResult> Remove(int Id)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
             var UserId = User.Claims.Where(user => user.Type == "sub")?.FirstOrDefault()?.Value;
@@ -78,13 +78,13 @@ namespace GeekShopping.web.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Checkout()
+        private async Task<IActionResult> Checkout()
         {
             return View(await findUserCart());
         }
 
         [HttpPost]
-        public async Task<IActionResult> Checkout(CartViewModel model)
+        private async Task<IActionResult> Checkout(CartViewModel model)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
 
@@ -100,36 +100,11 @@ namespace GeekShopping.web.Controllers
                 return RedirectToAction(nameof(Confirmation));
             }
             return View(model);
-        }
-        //public async Task<IActionResult> Checkout(CartViewModel model)
-        //{
-        //    if (!ModelState.IsValid)
-        //    {
-        //        return View(model);
-        //    }
-
-        //    var token = await HttpContext.GetTokenAsync("access_token");
-
-        //    var response = await _cartService.Checkout(model.CartHeader, token);
-
-        //    if (response != null && response.GetType() == typeof(string) || 
-        //        !CreditCardValidate.IsCreditCardValid(model.CartHeader.CardNumber) 
-        //        && !CreditCardValidate.ValidateExpiryDate(model.CartHeader.ExpireMothYear))
-        //    {
-        //        TempData["Error"] = response;
-        //        return RedirectToAction(nameof(Checkout));
-        //    }
-        //    else if (response != null)
-        //    {
-        //        return RedirectToAction(nameof(Confirmation));
-        //    }
-
-        //    return View(model);
-        //}
+        } 
 
 
         [HttpGet]
-        public async Task<IActionResult> Confirmation()
+        private async Task<IActionResult> Confirmation()
         {
             return View();
         }

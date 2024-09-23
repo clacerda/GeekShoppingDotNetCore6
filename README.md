@@ -21,7 +21,7 @@ O sistema conta com as seguintes tecnologias (já contando com melhorias particu
  - Compartilhamento de produto em redes sociais;
  - ~~Validação de cartão de crédito~~;
     - ~~Inclusão da bandeira de cartão de crédito utilizado - Awsome fonts.~~
-    - Layout adaptativo para outros métodos de pagamento.
+    - ~~Layout adaptativo para outros métodos de pagamento.~~
  - Envio de e-mail;
  - Infraestrutura com docker-compose;
     -  Criação de Projeto específico para manter a infraestrutura: GeekShopping.Infraestructure

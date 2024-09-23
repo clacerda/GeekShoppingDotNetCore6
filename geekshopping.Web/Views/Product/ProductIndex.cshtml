@@ -1,4 +1,5 @@
 ﻿@model IEnumerable<GeekShopping.web.Models.ProductViewModel>
+@using System.Text.Encodings.Web
 
 <br /><br />
 
@@ -52,7 +53,11 @@
                         }
                         
                     </td>
-
+                    @* <td>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=@UrlEncoder.Default.Encode(Model.u)" target="_blank">
+                            Compartilhar no Facebook
+                        </a>
+                    </td> *@
                 </tr>
             }
         </tbody>

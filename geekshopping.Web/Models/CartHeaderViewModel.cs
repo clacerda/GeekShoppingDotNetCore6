@@ -39,11 +39,19 @@ namespace GeekShopping.web.Models
 
         [Required(ErrorMessage = "Expiration date is required.")]
         [RegularExpression(@"\d{2}/\d{2}", ErrorMessage = "Invalid format. Use MM/YY.")]
-        [StringLength(5, MinimumLength = 5, ErrorMessage = "Invalid expiration date format. Use MM/YY.")]
+        [StringLength(5, MinimumLength = 5, ErrorMessage = "Invalid expiration date format. Use MM/YY.")]         
         public string ExpireMothYear { get; set; }
+
+        [Required(ErrorMessage = "The address is required.")]
         public string Address { get; set; }
+
+        [RegularExpression(@"^\d{2}\d{3}[-]\d{3}$", ErrorMessage = "Invalid format. Use XXXXX-XXX.")]
+        [Required(ErrorMessage = "The address number is required.")]
         public string NumberAddress { get; set; }
+
+        [Required(ErrorMessage = "The zipcode is required.")]
         public string ZipCode { get; set; }
+         
         public decimal ShippingCost { get; set; }
     }
 }
