@@ -1,11 +1,8 @@
-﻿using geekshopping.Web.Utils;
-using GeekShopping.web.Models;
+﻿using GeekShopping.web.Models;
 using GeekShopping.web.Services.IServices;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace GeekShopping.web.Controllers
 {
@@ -16,7 +13,7 @@ namespace GeekShopping.web.Controllers
         private readonly ICartService _cartService;
         private readonly ICouponService _couponService;
 
-        private CartController( IProductService productService, ICartService cartService, ICouponService couponService)
+        public CartController( IProductService productService, ICartService cartService, ICouponService couponService)
         {
             _productService = productService;
             _cartService = cartService;
@@ -24,14 +21,14 @@ namespace GeekShopping.web.Controllers
         }
 
         [Authorize]
-        private async Task<IActionResult> CartIndex()
+        public async Task<IActionResult> CartIndex()
         {            
             return View(await findUserCart());
         }
 
         [HttpPost]
         [ActionName("ApplyCoupon")]
-        private async Task<IActionResult> ApplyCoupon(CartViewModel model)
+        public async Task<IActionResult> ApplyCoupon(CartViewModel model)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
             var UserId = User.Claims.Where(user => user.Type == "sub")?.FirstOrDefault()?.Value;
@@ -47,7 +44,7 @@ namespace GeekShopping.web.Controllers
 
         [HttpPost]
         [ActionName("RemoveCoupon")]
-        private async Task<IActionResult> RemoveCoupon()
+        public async Task<IActionResult> RemoveCoupon()
         {
             var token = await HttpContext.GetTokenAsync("access_token");
             var UserId = User.Claims.Where(user => user.Type == "sub")?.FirstOrDefault()?.Value;
@@ -61,9 +58,7 @@ namespace GeekShopping.web.Controllers
             return View();
         }
 
-
-
-        private async Task<IActionResult> Remove(int Id)
+        public async Task<IActionResult> Remove(int Id)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
             var UserId = User.Claims.Where(user => user.Type == "sub")?.FirstOrDefault()?.Value;
@@ -78,13 +73,13 @@ namespace GeekShopping.web.Controllers
         }
 
         [HttpGet]
-        private async Task<IActionResult> Checkout()
+        public async Task<IActionResult> Checkout()
         {
             return View(await findUserCart());
         }
 
         [HttpPost]
-        private async Task<IActionResult> Checkout(CartViewModel model)
+        public async Task<IActionResult> Checkout(CartViewModel model)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
 
@@ -104,12 +99,12 @@ namespace GeekShopping.web.Controllers
 
 
         [HttpGet]
-        private async Task<IActionResult> Confirmation()
+        public async Task<IActionResult> Confirmation()
         {
             return View();
         }
 
-        private async Task<CartViewModel> findUserCart()
+        public async Task<CartViewModel> findUserCart()
         {
             var token = await HttpContext.GetTokenAsync("access_token");
 

@@ -1,12 +1,9 @@
 using GeekShopping.web.Services;
 using GeekShopping.web.Services.IServices;
 using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using System;
 
-var builder = WebApplication.CreateBuilder(args); 
+var builder = WebApplication.CreateBuilder(args);
+
 string serviceUrl = "ServiceUrls";
  
 

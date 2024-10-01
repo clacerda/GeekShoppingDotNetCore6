@@ -3,7 +3,6 @@ using GeekShopping.CartApi.Data.ValueObjects;
 using GeekShopping.CartApi.Messages;
 using GeekShopping.CartApi.RabbitMQSender;
 using GeekShopping.CartApi.Repository;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GeekShopping.CartApi.Controllers
@@ -95,7 +94,6 @@ namespace GeekShopping.CartApi.Controllers
             vo.CartDetails = cart.CartDetails;
             vo.Time = DateTime.Now;
 
-            // RabbitMQ logic comes here!!!
             _rabbitMQMessageSender.SendMessage(vo, "checkoutqueue");
 
             await _cartRepository.ClearCart(vo.UserId);

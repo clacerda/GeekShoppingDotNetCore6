@@ -15,14 +15,7 @@ internal class Program
         builder.Services.AddControllers();
 
         var apiSettings = builder.Configuration.GetSection("ApiSettings");
-        string basePath = apiSettings.GetValue<string>("BasePath");
-        string token = apiSettings.GetValue<string>("Token");
-
-        builder.Services.AddHttpClient<IShippingCostService, ShippingCostService>(client =>
-        {
-            client.BaseAddress = new Uri(basePath);
-            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
-        });
+    
 
         builder.Services.AddScoped<IReadApiExternal, ReadApiExternal>();
         builder.Services.AddHttpClient();

@@ -14,7 +14,7 @@
         <input asp-for="CartHeader.CouponCode" hidden />
         <input asp-for="CartHeader.DiscountTotal" hidden />
         <input asp-for="CartHeader.PurchaseAmount" hidden />
-        <input asp-for="CartHeader.ShippingCost"  value="0" hidden />
+        <input asp-for="CartHeader.ShippingCost" value="0" hidden />
 
         <div>
             <span style="font-size:25px;" class="text-warning"> Enter details and place order:</span>
@@ -43,7 +43,7 @@
                         </div>
                         <div class="col-12">
                             <label class="col-form-label">Phone Number: </label>
-                            <input asp-for="CartHeader.Phone" class="form-control" maxlength="11"  />
+                            <input asp-for="CartHeader.Phone" class="form-control" maxlength="11" />
                             <span asp-validation-for="CartHeader.Phone" class="text-danger"></span>
                         </div>
 
@@ -67,7 +67,7 @@
                             <span asp-validation-for="CartHeader.ZipCode" class="text-danger"></span>
                         </div>
                         @* Endereço *@
- 
+
                         <div class="col-14">
                             <div class="card mt-4">
                                 <div class="card-body">
@@ -97,8 +97,8 @@
                                             <span asp-validation-for="CartHeader.ExpireMothYear" class="text-danger" id="expiryError"></span>
                                         </div>
                                     </div>
-                               </div>
-                           </div>
+                                </div>
+                            </div>
                         </div>
                         <br />
                     </div>
@@ -154,7 +154,7 @@
                                     }
                                 </div>
                             </div>
-                            
+
                         </div>
                         <div class="card-footer">
                             <div class="row">
@@ -166,7 +166,55 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="card mt-4">
+                        <div class="card-body">
+                            <div class="d-none d-lg-block">
+                                <div class="row text-danger">
+                                    Select shipping:
+                                </div>
+                                <br />
+                                <div class="row text-dark list-group-item">
+                                    <div class="col-6"></div>
+                                    <figure style="display: flex; align-items: center;">
+                                        <div style="justify-content: flex-start; margin-left: 0px; line-height: 20px;">
+                                            <input type="radio" id="Value1" name="Value_shipping" value="R$ 12.05">
+                                            <span style="margin-left: 3px;"> R$ 12.05  </span>
+                                            <span>Service:</span>
+                                            <span style="font-weight: bold;">PAC</span>
+                                            <span>Term:</span>
+                                            <span>3 - 5 days</span>
+                                        </div>
+                                        <img decoding="async" src="https://sandbox.melhorenvio.com.br/images/shipping-companies/correios.png" style="width: 120px; height: 25px; margin-left: auto;" />
+                                    </figure>
+                                </div>
+
+                                <div class="row text-dark list-group-item">
+                                    <div class="col-6"></div>
+                                    <figure style="display: flex; align-items: center;">
+                                        <div style="justify-content: flex-start; margin-left: 0px; line-height: 20px;"> 
+                                            <input type="radio" id="Value1" name="Value_shipping" value="R$ 15.00">
+                                            <span style="margin-left: 3px;"> R$ 15.00  </span>
+                                            <span>Service:</span>
+                                            <span style="font-weight: bold;">SEDEX</span>
+                                            <span>Term:</span>
+                                            <span>2 - 4 days</span>
+                                        </div>
+                                        <img decoding="async" src="https://sandbox.melhorenvio.com.br/images/shipping-companies/correios.png" style="width: 120px; height: 25px; margin-left: auto;" />
+                                    </figure>
+                                </div>
+
+                                 
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
+
+                <div class="col-5">
+                    
+                </div>
+
             </div>
         </div>
     </form>

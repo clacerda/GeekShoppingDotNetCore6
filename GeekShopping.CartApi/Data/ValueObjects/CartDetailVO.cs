@@ -1,4 +1,6 @@
-﻿namespace GeekShopping.CartApi.Data.ValueObjects
+﻿using GeekShopping.Util.Models.ShippingCost;
+
+namespace GeekShopping.CartApi.Data.ValueObjects
 {
     public class CartDetailVO
     {
@@ -8,5 +10,6 @@
         public long ProductId { get; set; }
         public ProductVO Product { get; set; }
         public int Count { get; set; }
+        public ShippingCost? shippingCost { get; set; }
     }
 }

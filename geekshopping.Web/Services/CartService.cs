@@ -1,4 +1,5 @@
-﻿using GeekShopping.web.Models;
+﻿using GeekShopping.Util.Models.ShippingCost;
+using GeekShopping.web.Models;
 using GeekShopping.web.Services.IServices;
 using GeekShopping.web.Utils;
 using System.Net.Http.Headers;
@@ -8,7 +9,8 @@ namespace GeekShopping.web.Services
     public class CartService : ICartService
     {
         private readonly HttpClient _client;
-        public const string BasePath = "api/v1/cart";
+        private const string BasePath = "api/v1/cart";
+        private const string BasePathApiUtil = "https://localhost:7222/api/v1/Util/calculate";
 
         public CartService(HttpClient client)
         {
@@ -72,6 +74,10 @@ namespace GeekShopping.web.Services
         {
             _client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
             var response = await _client.PostAsJson($"{BasePath}/checkout", model);
+
+            //var shippingCost = new ShippingCostViewModel();
+            //var listShippiment = await _client.PostAsJson(BasePathApiUtil, shippingCost);
+
             if (response.IsSuccessStatusCode)
             {
                 return await response.ReadContentAs<CartHeaderViewModel>();
