@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeekShopping.Email")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+489507a28cd80548557049019c1dbf0c81a11b98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aae7a5423a0b1227428d22478354617d49d31ad6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeekShopping.Email")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeekShopping.Email")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

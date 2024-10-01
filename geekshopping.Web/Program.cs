@@ -6,14 +6,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
 
-var builder = WebApplication.CreateBuilder(args);
-const bool environment = true;
-string serviceUrl = string.Empty;
-
-if (environment)
-{
-    serviceUrl = "ServiceUrls";
-}
+var builder = WebApplication.CreateBuilder(args); 
+string serviceUrl = "ServiceUrls";
+ 
 
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation().AddViewOptions(opt => {
     opt.HtmlHelperOptions.ClientValidationEnabled = true;

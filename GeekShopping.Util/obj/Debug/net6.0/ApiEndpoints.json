@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GeekShopping.Util.Controllers.Util",
+    "Method": "CalculateShipment",
+    "RelativePath": "api/v1/Util/calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GeekShopping.Util.Models.ShippingRequest.ShipmentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
