@@ -1,23 +1,35 @@
-﻿using GeekShopping.web.Models;
+﻿using GeekShopping.Util.Models.ShippingCost;
+using GeekShopping.Util.Models.ShippingRequest;
+using GeekShopping.web.Models;
 using GeekShopping.web.Services.IServices;
+using GeekShopping.web.Utils;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Text.Json;
 
 namespace GeekShopping.web.Controllers
 {
     public class CartController : Controller
     {
-
+        private readonly IConfiguration _configuration;
+        private readonly HttpClient _client; 
+        private const string BasePathApiUtil = "https://localhost:7222/api/v1/Util/calculate";
         private readonly IProductService _productService;
         private readonly ICartService _cartService;
         private readonly ICouponService _couponService;
 
-        public CartController( IProductService productService, ICartService cartService, ICouponService couponService)
+        public CartController(IProductService productService, 
+                              ICartService cartService, 
+                              ICouponService couponService, 
+                              HttpClient client,
+                              IConfiguration configuration)
         {
             _productService = productService;
             _cartService = cartService;
             _couponService = couponService;
+            _client = client ?? throw new ArgumentNullException(nameof(client));
+            _configuration = configuration;
         }
 
         [Authorize]
@@ -131,6 +143,28 @@ namespace GeekShopping.web.Controllers
             }
 
             return response;
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CalculateShipping([FromBody] ShipmentRequest request)
+        { 
+            var response = await _client.PostAsJson(BasePathApiUtil, request);
+
+           if (response.IsSuccessStatusCode)
+            {
+                var ShippimentValues = _configuration.GetSection("ServicesShipping:Name").Get<string[]>();
+
+                var jsonResponse = await response.Content.ReadAsStringAsync();
+
+                var shippingCost = JsonSerializer.Deserialize<List<ShippingCostViewModel>>(jsonResponse).Where(sc => ShippimentValues.Contains(sc.Name)).ToList();
+
+                return Ok(shippingCost);
+            }
+            else
+            {
+                var errorMessage = await response.Content.ReadAsStringAsync();
+                return BadRequest($"Error calculating shipping: {errorMessage}");
+            } 
         }
     }
 }

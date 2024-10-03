@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using geekshopping.Web.Utils;
+using GeekShopping.Util.Models.ShippingCost;
 
 namespace GeekShopping.web.Models
 {
@@ -50,7 +51,6 @@ namespace GeekShopping.web.Models
 
         [Required(ErrorMessage = "The zipcode is required.")]
         public string ZipCode { get; set; }
-        
         public decimal ShippingCost { get; set; }
     }
 }

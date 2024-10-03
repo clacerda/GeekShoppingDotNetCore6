@@ -75,8 +75,7 @@ namespace GeekShopping.web.Services
             _client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
             var response = await _client.PostAsJson($"{BasePath}/checkout", model);
 
-            //var shippingCost = new ShippingCostViewModel();
-            //var listShippiment = await _client.PostAsJson(BasePathApiUtil, shippingCost);
+            
 
             if (response.IsSuccessStatusCode)
             {

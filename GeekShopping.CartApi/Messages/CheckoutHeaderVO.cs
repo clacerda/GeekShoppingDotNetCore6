@@ -1,5 +1,6 @@
 ﻿using GeekShopping.CartApi.Data.ValueObjects;
 using GeekShopping.MessageBus;
+using GeekShopping.Util.Models.ShippingCost;
 
 namespace GeekShopping.CartApi.Messages
 {

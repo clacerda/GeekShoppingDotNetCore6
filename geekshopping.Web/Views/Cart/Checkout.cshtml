@@ -5,7 +5,6 @@
     <div class="alert alert-warning" role="alert">@TempData["Error"]</div>
 }
 
-
 @if (Model != null && Model.CartDetails.Count() > 0)
 {
     <form method="post">
@@ -17,7 +16,7 @@
         <input asp-for="CartHeader.ShippingCost" value="0" hidden />
 
         <div>
-            <span style="font-size:25px;" class="text-warning"> Enter details and place order:</span>
+            <span style="font-size:25px;" class="text-warning">Enter details and place order:</span>
             <br />
         </div>
 
@@ -30,7 +29,6 @@
                             <input asp-for="CartHeader.FirstName" class="form-control" />
                             <span asp-validation-for="CartHeader.FirstName" class="text-danger"></span>
                         </div>
-                        @* PersonalInfo *@
                         <div class="col-12">
                             <label class="col-form-label">Last Name: </label>
                             <input asp-for="CartHeader.LastName" class="form-control" />
@@ -63,61 +61,42 @@
 
                         <div class="col-12">
                             <label class="col-form-label">ZipCode: </label>
-                            <input asp-for="CartHeader.ZipCode" class="form-control" maxlength="8" placeholder="Use only numbers." />
+                            <input asp-for="CartHeader.ZipCode" id="ZipCodeInput" class="form-control" maxlength="8" placeholder="Use only numbers." />
                             <span asp-validation-for="CartHeader.ZipCode" class="text-danger"></span>
                         </div>
-                        @* Endereço *@
 
-                        <div class="col-14">
-                            <div class="card mt-4">
-                                <div class="card-body">
-                                    <div class="row text-danger">
-                                        <div class="col-6">
-                                            Payment Card:
-                                        </div>
-                                    </div>
-                                    @* CreditCard *@
-                                    <div class="col-12">
-                                        <label class="col-form-label">Card Number: </label>
-                                        <div class="input-group">
-                                            <input asp-for="CartHeader.CardNumber" id="cardNumber" type="text" class="form-control" oninput="updateCardIcon()" />
-                                            <span id="cardIcon" class="input-group-text fa fa-credit-card fa-2x"></span>
-                                        </div>
-                                        <span asp-validation-for="CartHeader.CardNumber" class="text-danger"></span>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <label class="col-form-label">CVV: </label>
-                                            <input asp-for="CartHeader.CVV" class="form-control" maxlength="4" pattern="\d{3,4}" />
-                                            <span asp-validation-for="CartHeader.CVV" class="text-danger"></span>
-                                        </div>
-                                        <div class="col-6 pb-4">
-                                            <label class="col-form-label">Expire Date: </label>
-                                            <input asp-for="CartHeader.ExpireMothYear" placeholder="MM/YY" oninput="applyMask(this)" onblur="validateExpiryDate(this)" class="form-control" pattern="\d{2}/\d{2}" title="Please enter in the format MM/YY" />
-                                            <span asp-validation-for="CartHeader.ExpireMothYear" class="text-danger" id="expiryError"></span>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div class="col-12">
+                            <label class="col-form-label">Card Number: </label>
+                            <div class="input-group">
+                                <input asp-for="CartHeader.CardNumber" id="cardNumber" type="text" class="form-control" oninput="updateCardIcon()" />
+                                <span id="cardIcon" class="input-group-text fa fa-credit-card fa-2x"></span>
+                            </div>
+                            <span asp-validation-for="CartHeader.CardNumber" class="text-danger"></span>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-6">
+                                <label class="col-form-label">CVV: </label>
+                                <input asp-for="CartHeader.CVV" class="form-control" maxlength="4" pattern="\d{3,4}" />
+                                <span asp-validation-for="CartHeader.CVV" class="text-danger"></span>
+                            </div>
+                            <div class="col-6 pb-4">
+                                <label class="col-form-label">Expire Date: </label>
+                                <input asp-for="CartHeader.ExpireMothYear" placeholder="MM/YY" oninput="applyMask(this)" onblur="validateExpiryDate(this)" class="form-control" pattern="\d{2}/\d{2}" title="Please enter in the format MM/YY" />
+                                <span asp-validation-for="CartHeader.ExpireMothYear" class="text-danger" id="expiryError"></span>
                             </div>
                         </div>
-                        <br />
                     </div>
-
                 </div>
+
                 <div class="col-5">
                     <div class="card mt-4">
                         <div class="card-body">
                             <div class="d-none d-lg-block">
                                 <div class="row text-danger">
-                                    <div class="col-6">
-                                        Product Details
-                                    </div>
-                                    <div class="col-3">
-                                        Price
-                                    </div>
-                                    <div class="col-3">
-                                        Count
-                                    </div>
+                                    <div class="col-6">Product Details</div>
+                                    <div class="col-3">Price</div>
+                                    <div class="col-3">Count</div>
                                 </div>
                             </div>
                             <hr />
@@ -126,7 +105,7 @@
                                 <div class="row h100">
                                     <div class="col-6">
                                         <span style="font-size:18px;">
-                                            @string.Format("{0:c}", item.Product.Name)
+                                            @item.Product.Name
                                         </span>
                                     </div>
                                     <div class="col-3" style="font-size:15px;">
@@ -136,7 +115,7 @@
                                     </div>
                                     <div class="col-3" style="font-size:15px;">
                                         <span>
-                                            @item.Product.Count
+                                            @item.Count
                                         </span>
                                     </div>
                                 </div>
@@ -144,7 +123,7 @@
                             }
                             <div class="row">
                                 <div class="col-12 text-right pr-4 text-danger">
-                                    Purchase Amount: @string.Format("{0:c}", Model.CartHeader.PurchaseAmount)
+                                    Purchase Amount: <span id="purchase-amount">@string.Format("{0:c}", Model.CartHeader.PurchaseAmount)</span>
                                     <br />
                                     @if (Model.CartHeader.DiscountTotal > 0)
                                     {
@@ -154,7 +133,6 @@
                                     }
                                 </div>
                             </div>
-
                         </div>
                         <div class="card-footer">
                             <div class="row">
@@ -167,52 +145,9 @@
                         </div>
                     </div>
 
-                    <div class="card mt-4">
-                        <div class="card-body">
-                            <div class="d-none d-lg-block">
-                                <div class="row text-danger">
-                                    Select shipping:
-                                </div>
-                                <br />
-                                <div class="row text-dark list-group-item">
-                                    <div class="col-6"></div>
-                                    <figure style="display: flex; align-items: center;">
-                                        <div style="justify-content: flex-start; margin-left: 0px; line-height: 20px;">
-                                            <input type="radio" id="Value1" name="Value_shipping" value="R$ 12.05">
-                                            <span style="margin-left: 3px;"> R$ 12.05  </span>
-                                            <span>Service:</span>
-                                            <span style="font-weight: bold;">PAC</span>
-                                            <span>Term:</span>
-                                            <span>3 - 5 days</span>
-                                        </div>
-                                        <img decoding="async" src="https://sandbox.melhorenvio.com.br/images/shipping-companies/correios.png" style="width: 120px; height: 25px; margin-left: auto;" />
-                                    </figure>
-                                </div>
+                    <div id="shipping-view">
 
-                                <div class="row text-dark list-group-item">
-                                    <div class="col-6"></div>
-                                    <figure style="display: flex; align-items: center;">
-                                        <div style="justify-content: flex-start; margin-left: 0px; line-height: 20px;"> 
-                                            <input type="radio" id="Value1" name="Value_shipping" value="R$ 15.00">
-                                            <span style="margin-left: 3px;"> R$ 15.00  </span>
-                                            <span>Service:</span>
-                                            <span style="font-weight: bold;">SEDEX</span>
-                                            <span>Term:</span>
-                                            <span>2 - 4 days</span>
-                                        </div>
-                                        <img decoding="async" src="https://sandbox.melhorenvio.com.br/images/shipping-companies/correios.png" style="width: 120px; height: 25px; margin-left: auto;" />
-                                    </figure>
-                                </div>
-
-                                 
-                            </div>
-                        </div>
                     </div>
-
-                </div>
-
-                <div class="col-5">
-                    
                 </div>
 
             </div>
@@ -220,5 +155,101 @@
     </form>
 }
 
+@section Scripts {
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+           $('#ZipCodeInput').on('blur', function() {
+            let zipCode = $(this).val();
+
+            if (zipCode) {
+                let shipmentRequest = {
+                    from: {
+                        postal_code: zipCode
+                    },
+                    to: {
+                        postal_code: "82590300"
+                    },
+                    package: {
+                        height: 10,
+                        width: 10,
+                        length: 10,
+                        weight: 10
+                    }
+                };
+
+                //  console.log("Enviando solicitação de cálculo de frete...");
+
+                $.ajax({
+                    url: '/Cart/CalculateShipping',
+                    type: 'POST',
+                    data: JSON.stringify(shipmentRequest),
+                    contentType: 'application/json',
+                    headers: {
+                        'Accept': 'application/json'
+                    },
+                    success: function(response) {
+                        let shippingOptions = response.shippingOptions;
+
+                        //console.log("Response:", response); // Inclui para verificar se os objetos retornavam... Caso queira retirar, fique à vontade.
+
+                        // Limpo os id's, houve um bug de duplicação de tags e este é o contingente.
+                        $('#shipping-options').empty();
+                        $('#shipping-view').empty();
+
+                        console.log("Response:", "Passou por aqui!"); // Teste
+
+                        if (response.length > 0) {
+                            $("#shipping-view").append(`<div class="card mt-4">
+                        <div class="card-body">
+                            <div class="d-none d-lg-block">
+                                <div class="row text-danger">Select shipping:</div>
+                                <br />
+                                <div id="shipping-options" class="row text-dark list-group-item"></div>
+                            </div>
+                        </div>
+                    </div>`);
+                        }
+
+                        response.forEach(function(opt) {
+                            if (opt.error) {
+                                $('#shipping-options').append(`
+                               <div class="col-12">
+                                   <figure style="display: flex; align-items: center;">
+                                       <div style="justify-content: flex-start; margin-left: 0px; line-height: 20px;">
+                                           <span style="color: red;">${opt.error}</span>
+                                       </div>
+                                       <img decoding="async" src="${opt.company.picture}" style="width: 120px; height: 25px; margin-left: auto;" />
+                                   </figure>
+                               </div>
+                            `);
+                            } else {
+                                $('#shipping-options').append(`
+                                <div class="col-12">
+                                    <figure style="display: flex; align-items: center;">
+                                        <div style="justify-content: flex-start; margin-left: 0px; line-height: 20px;">
+                                            <input type="radio" id="${opt.id}" name="Value_shipping" value="${opt.name}">
+                                            <span style="margin-left: 3px;">R$ ${opt.custom_price ? parseFloat(opt.custom_price).toFixed(2) : 'N/A'}</span>
+                                            <span>Service:</span>
+                                            <span style="font-weight: bold;">${opt.name}</span>
+                                            <span>Term:</span>
+                                            <span>${opt.delivery_range ? opt.delivery_range.min : 'N/A'} - ${opt.delivery_range ? opt.delivery_range.max : 'N/A'} days</span>
+                                        </div>
+                                        <img decoding="async" src="${opt.company.picture}" style="width: 120px; height: 25px; margin-left: auto;" />
+                                   </figure>
+                             </div>
+                              `);
+                            }
+                        });
+                    },
+                    error: function(error) {
+                        console.error("Error calculating shipping: ", error);
+                    }
+                });
+            } else {
+                console.error("Error: ZipCode is empty.");
+            }
+        });
+</script>
 
 
+}
