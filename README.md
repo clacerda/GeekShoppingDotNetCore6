@@ -19,6 +19,7 @@ O sistema conta com as seguintes tecnologias (já contando com melhorias particu
  - ~~HomePage: Incluir 'Carousel' para que as imagens possam ser paginadas na home;~~ Completo
  - Integração com whatsApp;
  - Compartilhamento de produto em redes sociais;
+ - ~~Calculo de frete~~;
  - ~~Validação de cartão de crédito~~;
     - ~~Inclusão da bandeira de cartão de crédito utilizado - Awsome fonts.~~
     - ~~Layout adaptativo para outros métodos de pagamento.~~
@@ -93,6 +94,14 @@ Para executar o projeto é muito simples, basta executar a seguinte sequência:
     - Agora, ao digitar o número do cartão, a aplicação identifica em tempo real (javascript) a bandeira do cartão;
     - Estamos evoluindo para um layout adaptativo dos pagamentos, então será mais simples de adicionar outras features de pagamento como boletos, pix ou... Bitcoin?!
  ![Home Page](https://github.com/clacerda/GeekShoppingDotNetCore6/blob/main/geekshopping.Web/wwwroot/images/payment_creditCard.PNG?raw=true)
+
+ ## Novidades:
+- Atualização 03/10
+    - O checkout merecia uma forma de valorizar o frete, e agora chegou! Inicialmente pensei em usar o webservice do correio, mas fui surpreendido com o encerramento do serviço e a burocracia para trabalhar com as Api's novas.
+    - Por conta da burocracia, acabei fazendo um benchmark com as ferramentas do mercado e encontrei a melhor envio (#melhorenvio) e foi muito simples usar a api dos caras, além de terem uma infinidade de funções, o mais legal é o sandbox deles!
+    - Link da API melhorEnvio: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate
+ ![Home Page](https://github.com/clacerda/GeekShoppingDotNetCore6/blob/main/geekshopping.Web/wwwroot/images/MelhorEnvio.PNG?raw=true)
+    - Além disto, alguns detalhes que já estavam no backlog deste projeto foram corrigidos, por exemplo, o bug do Contador de produtos na cesta.
 
 
 ## Suporte
