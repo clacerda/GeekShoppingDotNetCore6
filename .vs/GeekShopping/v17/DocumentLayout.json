@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BB470BA-D199-4634-BCE5-7E5776A6B80D}|Itens de Solu\u00E7\u00E3o{0BB470BA-D199-4634-BCE5-7E5776A6B80D}|C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{0BB470BA-D199-4634-BCE5-7E5776A6B80D}|Itens de Solu\u00E7\u00E3o{0BB470BA-D199-4634-BCE5-7E5776A6B80D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{E30D7A0C-49E5-43EB-B6EF-A5C505BDEBCC}|GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.paymentapi\\messageconsumer\\rabbitmqpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30D7A0C-49E5-43EB-B6EF-A5C505BDEBCC}|GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj|solutionrelative:geekshopping.paymentapi\\messageconsumer\\rabbitmqpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D0D6284-A08C-40E6-9372-99AA7A112C50}|GeekShopping.Email\\GeekShopping.Email.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.email\\messageconsumer\\rabbitmqpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0D6284-A08C-40E6-9372-99AA7A112C50}|GeekShopping.Email\\GeekShopping.Email.csproj|solutionrelative:geekshopping.email\\messageconsumer\\rabbitmqpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707C3C9-230C-4A6B-A1A1-215151407E62}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.orderapi\\messageconsumer\\rabbitmqcheckoutconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707C3C9-230C-4A6B-A1A1-215151407E62}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\messageconsumer\\rabbitmqcheckoutconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA9A149-381C-4F63-B96C-A8B64763864F}|GeekShopping.CartApi\\GeekShopping.CartApi.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.cartapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA9A149-381C-4F63-B96C-A8B64763864F}|GeekShopping.CartApi\\GeekShopping.CartApi.csproj|solutionrelative:geekshopping.cartapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707C3C9-230C-4A6B-A1A1-215151407E62}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.orderapi\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707C3C9-230C-4A6B-A1A1-215151407E62}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707C3C9-230C-4A6B-A1A1-215151407E62}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.orderapi\\messageconsumer\\rabbitmqpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707C3C9-230C-4A6B-A1A1-215151407E62}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\messageconsumer\\rabbitmqpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30D7A0C-49E5-43EB-B6EF-A5C505BDEBCC}|GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.paymentapi\\rabbitmqsender\\rabbitmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30D7A0C-49E5-43EB-B6EF-A5C505BDEBCC}|GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj|solutionrelative:geekshopping.paymentapi\\rabbitmqsender\\rabbitmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0707C3C9-230C-4A6B-A1A1-215151407E62}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.orderapi\\rabbitmqsender\\rabbitmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0707C3C9-230C-4A6B-A1A1-215151407E62}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\rabbitmqsender\\rabbitmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA9A149-381C-4F63-B96C-A8B64763864F}|GeekShopping.CartApi\\GeekShopping.CartApi.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.cartapi\\rabbitmqsender\\rabbitmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA9A149-381C-4F63-B96C-A8B64763864F}|GeekShopping.CartApi\\GeekShopping.CartApi.csproj|solutionrelative:geekshopping.cartapi\\rabbitmqsender\\rabbitmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\models\\cartheaderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\models\\cartheaderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60AFF76D-6871-4742-BDDE-21E65DF21E2A}|geekshopping.Web\\geekshopping.Web.csproj|solutionrelative:geekshopping.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AA9A149-381C-4F63-B96C-A8B64763864F}|GeekShopping.CartApi\\GeekShopping.CartApi.csproj|c:\\users\\claud\\onedrive\\\u00E1rea de trabalho\\geekshopping\\geekshopping.cartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AA9A149-381C-4F63-B96C-A8B64763864F}|GeekShopping.CartApi\\GeekShopping.CartApi.csproj|solutionrelative:geekshopping.cartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +54,19 @@
       "DocumentGroups": [
         {
           "DockedHeight": 126,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-03T18:19:56.452Z",
+              "DocumentIndex": 3,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.CartApi\\Repository\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "GeekShopping.CartApi\\Repository\\CouponRepository.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.CartApi\\Repository\\CouponRepository.cs",
+              "RelativeToolTip": "GeekShopping.CartApi\\Repository\\CouponRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:26:18.842Z",
               "EditorCaption": ""
             },
             {
@@ -51,42 +79,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.CartApi\\Repository\\CartRepository.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartApi\\Repository\\CartRepository.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.CartApi\\Repository\\CartRepository.cs",
-              "RelativeToolTip": "GeekShopping.CartApi\\Repository\\CartRepository.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.OrderAPI\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.OrderAPI\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:31:24.742Z",
+              "WhenOpened": "2024-10-07T20:16:37.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Services\\CartService.cs",
-              "RelativeDocumentMoniker": "geekshopping.Web\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Services\\CartService.cs",
-              "RelativeToolTip": "geekshopping.Web\\Services\\CartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CartHeaderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Models\\CartHeaderViewModel.cs",
+              "RelativeDocumentMoniker": "geekshopping.Web\\Models\\CartHeaderViewModel.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Models\\CartHeaderViewModel.cs",
+              "RelativeToolTip": "geekshopping.Web\\Models\\CartHeaderViewModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T13:22:04.367Z",
+              "WhenOpened": "2024-10-07T18:08:50.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Checkout.cshtml",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Views\\Cart\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "geekshopping.Web\\Views\\Cart\\Checkout.cshtml",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Views\\Cart\\Checkout.cshtml",
-              "RelativeToolTip": "geekshopping.Web\\Views\\Cart\\Checkout.cshtml",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAIwLMAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T16:52:00.098Z",
+              "Title": "RabbitMQPaymentConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Email\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Email\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.Email\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "RelativeToolTip": "GeekShopping.Email\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:33:10.914Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RabbitMqSender.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.PaymentAPI\\RabbitMQSender\\RabbitMqSender.cs",
+              "RelativeDocumentMoniker": "GeekShopping.PaymentAPI\\RabbitMQSender\\RabbitMqSender.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.PaymentAPI\\RabbitMQSender\\RabbitMqSender.cs",
+              "RelativeToolTip": "GeekShopping.PaymentAPI\\RabbitMQSender\\RabbitMqSender.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:49:28.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RabbitMqSender.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.OrderAPI\\RabbitMQSender\\RabbitMqSender.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\RabbitMQSender\\RabbitMqSender.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.OrderAPI\\RabbitMQSender\\RabbitMqSender.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\RabbitMQSender\\RabbitMqSender.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:49:22.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMqSender.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.CartApi\\RabbitMQSender\\RabbitMqSender.cs",
+              "RelativeDocumentMoniker": "GeekShopping.CartApi\\RabbitMQSender\\RabbitMqSender.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.CartApi\\RabbitMQSender\\RabbitMqSender.cs",
+              "RelativeToolTip": "GeekShopping.CartApi\\RabbitMQSender\\RabbitMqSender.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:40:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMQCheckoutConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQCheckoutConsumer.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQCheckoutConsumer.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQCheckoutConsumer.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQCheckoutConsumer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:33:18.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitMQPaymentConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:33:24.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQPaymentConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.PaymentAPI\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "RelativeDocumentMoniker": "GeekShopping.PaymentAPI\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\GeekShopping.PaymentAPI\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "RelativeToolTip": "GeekShopping.PaymentAPI\\MessageConsumer\\RabbitMQPaymentConsumer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAnwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:33:31.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "geekshopping.Web\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\\u00C1rea de Trabalho\\GeekShopping\\geekshopping.Web\\Services\\CartService.cs",
+              "RelativeToolTip": "geekshopping.Web\\Services\\CartService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:22:04.367Z"
             }
           ]
         },

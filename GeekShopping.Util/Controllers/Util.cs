@@ -13,6 +13,7 @@ namespace GeekShopping.Util.Controllers
         private readonly IConfiguration _configuration;
         private readonly IReadApiExternal _readApiExternal;
 
+
         public Util(IConfiguration configuration, IReadApiExternal readApiExternal)
         {
             _configuration = configuration;

@@ -28,7 +28,9 @@ namespace GeekShopping.PaymentAPI.RabbitMQSender
             if (ConnectionExists())
             {
                 using var channel = _connection.CreateModel();
+
                 channel.ExchangeDeclare(ExchangeName, ExchangeType.Direct, durable: false);
+
                 channel.QueueDeclare(PaymentEmailUpdateQueueName, false, false, false, null);
                 channel.QueueDeclare(PaymentOrderUpdateQueueName, false, false, false, null);
 
@@ -36,8 +38,14 @@ namespace GeekShopping.PaymentAPI.RabbitMQSender
                 channel.QueueBind(PaymentOrderUpdateQueueName, ExchangeName, "PaymentOrder");
 
                 byte[] body = GetsMessageAsByteArray(message);
-                channel.BasicPublish(exchange: ExchangeName, "PaymentEmail", basicProperties: null, body: body);
-                channel.BasicPublish(exchange: ExchangeName, "PaymentOrder", basicProperties: null, body: body);
+
+                IBasicProperties props = channel.CreateBasicProperties();
+                props.ContentType = "text/plain";
+                props.DeliveryMode = 2;
+                props.Expiration = "180000";
+
+                channel.BasicPublish(exchange: ExchangeName, "PaymentEmail", basicProperties: props, body: body);
+                channel.BasicPublish(exchange: ExchangeName, "PaymentOrder", basicProperties: props, body: body);
             }
         }
 
@@ -48,6 +56,9 @@ namespace GeekShopping.PaymentAPI.RabbitMQSender
                 WriteIndented = true,
             };
             var json = JsonSerializer.Serialize<UpdatePaymentResultMessage>((UpdatePaymentResultMessage)message, options);
+
+
+
             return Encoding.UTF8.GetBytes(json); 
         }
         private void CreateConnection()

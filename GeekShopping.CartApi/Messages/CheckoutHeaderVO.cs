@@ -23,6 +23,6 @@ namespace GeekShopping.CartApi.Messages
         public string Address { get; set; }
         public string NumberAddress { get; set; }
         public string ZipCode { get; set; }
-        public decimal ShippingCost { get; set; }
+        public decimal? ShippingCost { get; set; }
     }
 }

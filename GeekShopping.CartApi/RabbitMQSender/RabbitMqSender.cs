@@ -25,9 +25,27 @@ namespace GeekShopping.CartApi.RabbitMQSender
             if (ConnectionExists())
             {
                 using var channel = _connection.CreateModel();
-                channel.QueueDeclare(queue: queueName, false, false, false, arguments: null);
-                byte[] body = GetsMessageAsByteArray(message);
-                channel.BasicPublish(exchange: "", routingKey: queueName, basicProperties: null, body: body);
+
+                try
+                { 
+                    channel.QueueDeclare(queue: queueName, durable: false, exclusive: false, autoDelete: false, arguments: null); 
+                    
+
+                    byte[] body = GetsMessageAsByteArray(message);
+
+                    IBasicProperties props = channel.CreateBasicProperties();
+                    props.ContentType = "text/plain";
+                    props.DeliveryMode = 2;
+                    props.Expiration = "180000";
+
+                    channel.BasicPublish(exchange: "", routingKey: queueName, basicProperties: props, body: body);
+                }
+                catch (RabbitMQ.Client.Exceptions.OperationInterruptedException ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                    throw new Exception("Fail process Cart.", ex);
+                }
+
             }
         }
 
@@ -48,15 +66,15 @@ namespace GeekShopping.CartApi.RabbitMQSender
                 {
                     HostName = _hostName,
                     UserName = _userName,
-                    Password = _password
+                    Password = _password,
                 };
 
                 _connection = factory.CreateConnection();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
-                throw;
+                Console.WriteLine(ex.ToString());
+                throw new ArgumentNullException("Error on MessageSender.", ex);
             }
         }
         private bool ConnectionExists()

@@ -25,9 +25,28 @@ namespace GeekShopping.OrderApi.RabbitMQSender
             if (ConnectionExists())
             {
                 using var channel = _connection.CreateModel();
-                channel.QueueDeclare(queue: queueName, false, false, false, arguments: null);
-                byte[] body = GetsMessageAsByteArray(message);
-                channel.BasicPublish(exchange: "", routingKey: queueName, basicProperties: null, body: body);
+
+                try
+                {
+                     channel.QueueDeclare(queue: queueName, durable: false, exclusive: false, autoDelete: false, arguments: null);
+                     
+
+                    byte[] body = GetsMessageAsByteArray(message);
+
+                    IBasicProperties props = channel.CreateBasicProperties();
+                    props.ContentType = "text/plain";
+                    props.DeliveryMode = 2;
+                    props.Expiration = "180000";
+
+                    channel.BasicPublish(exchange: "", routingKey: queueName, basicProperties: props, body: body);
+                }
+                catch (RabbitMQ.Client.Exceptions.OperationInterruptedException ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                    throw new Exception("Fail to process Order.", ex);
+                }
+                 
+                
             }
         }
 
